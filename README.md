@@ -1,21 +1,17 @@
-## Sales YoY Performance Dashboard
-📊 Project Overview:
-Developed an interactive sales performance dashboard using Tableau Public to visualize key metrics (Sales, Profit, and Quantity) with year-over-year comparisons, enabling quick identification of performance trends, anomalies, and regional patterns.
+# Sales Performance Dashboard (YoY KPI Comparison)
 
-💡 My Contributions:
+This Tableau project visualizes key business metrics like Sales, Profit, and Quantity with Year-over-Year comparisons. Built using Tableau Public, the dashboard allows users to interactively filter by Year, Region, Category, and more.
 
--> Collaborated with stakeholders to gather requirements and understand the business goals and user expectations.
+## 🔍 Features
+- KPIs with dynamic year selection
+- YoY comparison charts with min/max highlights
+- Filterable by region, state, city, category, and sub-category
+- Published live on Tableau Public
 
--> Sketched dashboard wireframes and selected appropriate chart types to align with user stories.
+## 📊 Dashboard Link
+[View it on Tableau Public](https://public.tableau.com/app/profile/maneesha.b2743/viz/SalesCustomerDashboards_17509045762520/SalesPerformanceDashboard)
 
--> Built a clean and reliable data model: connected to source files, renamed fields, validated data types, and explored the dataset for quality and usability.
-
--> Created dynamic calculated fields and parameters to support KPIs and flexible year selection.
-
--> Designed individual visualizations (line charts with min/max highlights) and refined them by formatting axes, removing unnecessary grid lines, and applying color schemes and tooltips.
-
--> Assembled all charts into a cohesive dashboard layout using containers, with responsive design (fit to entire view).
-
--> Implemented filters for Year, Region, State, City, Category, and Sub-Category to allow multi-level drill-down.
-
--> Published the final dashboard to Tableau Public for public access and professional showcasing.
+## 💡 Tools Used
+- Tableau Public
+- Excel (for data)
+- GitHub (for documentation)
